@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Assignment
-=======
 Governmental Enterprise Architecture Frameworks (GEAFs)
 
 
@@ -68,4 +65,3 @@ Submitted by: Pabita Pun
 Roll no.: 21
 
 
->>>>>>> a166c30c813992d2590e289718848a827d4af13b
