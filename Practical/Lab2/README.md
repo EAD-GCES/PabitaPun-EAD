@@ -1,39 +1,39 @@
 Contribute to open source project
 
-Sign into GitHub
+1. Sign into GitHub
 
-Fork the project repository
+2. Fork the project repository
 
-Clone your fork (git clone URL_of_fork)
+3. Clone your fork (git clone URL_of_fork)
 
-Navigate to your local repository(cd NAME_OF_REPOSITORY.)
+4. Navigate to your local repository(cd NAME_OF_REPOSITORY.)
 
-Check that your fork is the "origin" remote (git remote -v) or (git remote add origin URL_OF_FORK.)
+5. Check that your fork is the "origin" remote (git remote -v) or (git remote add origin URL_OF_FORK.)
 
-Add the original project repository as the "upstream" remote (git remote add upstream URL_OF_PROJECT.)
+6. Add the original project repository as the "upstream" remote (git remote add upstream URL_OF_PROJECT.)
 
-Pull the latest changes from upstream into your local repository (git pull upstream main)
+7. Pull the latest changes from upstream into your local repository (git pull upstream main)
 
-Create a new branch (git checkout -b BRANCH_NAME)
+8. Create a new branch (git checkout -b BRANCH_NAME)
 
-Make changes in your local repository
+9. Make changes in your local repository
 
-Commit your changes (git add -A) and (git commit -m "DESCRIPTION OF CHANGES")
+10. Commit your changes (git add -A) and (git commit -m "DESCRIPTION OF CHANGES")
 
-Push your changes to your fork (git push origin BRANCH_NAME.)
+11. Push your changes to your fork (git push origin BRANCH_NAME.)
 
-Begin the pull request
+12. Begin the pull request
 
-Create the pull request
+13. Create the pull request
 
-Review the pull request by owner
+14. Review the pull request by owner
 
-Add more commits to your pull request
+15. Add more commits to your pull request
 
-Discuss the pull request
+16. Discuss the pull request
 
-Delete your branch from your fork
+17. Delete your branch from your fork
 
-Delete your branch from your local repository (git checkout master) and (git branch -D or -d BRANCH_NAME)
+18. Delete your branch from your local repository (git checkout master) and (git branch -D or -d BRANCH_NAME)
 
-Synchronize your fork with the project repository (git pull upstream master in project repo) and (git push origin master in your fork)
+19. Synchronize your fork with the project repository (git pull upstream master in project repo) and (git push origin master in your fork)
