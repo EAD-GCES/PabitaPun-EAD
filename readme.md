@@ -8,6 +8,7 @@ This repository contains assignments and practicals of Enterprise Application De
 | Assignment no:      | Title                   | Submission Date                   | Deadline Date                   |
 | :---            |  :---                               | :---                   | :---                   |
 | 1                   | [Government Enterprise Architecture Framework](https://github.com/Pabitapun23/EAD/tree/main/Assignment/Assignment1)       | 25 Nov 2021                   | 26 Nov 2021                   |
+| 2                   | [Agile Methodology](https://github.com/Pabitapun23/EAD/tree/main/Assignment/Assignment2)                            | 6 Jan 2022                    | 8 Jan 2022                    | 
 
 
 ###
